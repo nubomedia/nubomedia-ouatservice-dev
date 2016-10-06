@@ -5,7 +5,7 @@ Copyright © 2016 [NUBOMEDIA]. Licensed under [Apache 2.0 License].
 nubomedia-ouatservice-dev
 =========================
 
-NUBOMEDIA Live Tale Service: Service works in development environment.
+NUBOMEDIA Live Tale Service: Java service works in development environment.
 
 What is NUBOMEDIA
 -----------------
